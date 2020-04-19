@@ -1,0 +1,3 @@
+Here we will compare between many different classification algorithms or models.
+For example, Suport Vector Machine(svc), K-Neighbors Classifier,Logistic Regression,Navie Bayes.
+here we use titanic survival dataset.
